@@ -80,8 +80,9 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
     }
-    "xingba":{
+    "xingba": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧"
   }
 }
+
